@@ -1,0 +1,3 @@
+displayName = May's Mod
+author = May
+version = 0.1
